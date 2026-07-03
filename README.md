@@ -62,4 +62,3 @@ Contributions are welcome — open an issue or submit a PR with improvements or 
 
 ---
 
-Enjoy exploring the RNN dashboard — ask if you want a README tailored to deployment (Docker/Gunicorn) or a CI-friendly requirements file.
