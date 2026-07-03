@@ -1,4 +1,4 @@
-# RNN_DASH
+# Sentence Completion Model
 
 An interactive dashboard for an RNN/LSTM text prediction model — quick to run locally and easy to extend.
 
